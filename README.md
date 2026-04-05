@@ -63,10 +63,9 @@
 ## 🛠️ Deployment Guide
 
 ### 🚆 One-Click Railway Deployment
-Perfect for hosting your bot 24/7 with zero maintenance.
 
 1. **Fork** this repository.
-2. Log in to [Railway.app](https://railway.app/).
+2. Log in to any hosting site.
 3. Create a **New Project** and select your forked GitHub repo.
 4. Add the required **Environment Variables** (see below).
 5. Click **Deploy**.
