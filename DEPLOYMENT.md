@@ -79,8 +79,8 @@ If you wish to run the bot on your own computer:
 ---
 
 ## 🆘 Support & Source
-- **Owner username**: [Shawon](https://t.me/ShawonXnone)
-- **Support Channel**: [Shawon](https://t.me/Shawon_28)
+- **Owner username**: [Contact owner](https://t.me/ShawonXnone)
+- **Support Channel**: [Support channel](https://t.me/Shawon_28)
 
 **Note**: This bot uses **SQLite** for performance and simplicity. If you want the database to survive between restarts, ensure Railway's "Volume" feature is correctly configured for `database.db`.
 
