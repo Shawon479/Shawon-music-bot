@@ -78,8 +78,8 @@ Perfect for hosting your bot 24/7 with zero maintenance.
 1. **Install Python 3.10+** and **FFmpeg**.
 2. **Clone the Repo**:
    ```bash
-   git clone https://github.com/ShawonXnone/Shawon-Music.git
-   cd Shawon-Music
+   git clone https://github.com/Shawon479/Shawon-music-bot.git
+   cd Shawon-music-bot
    ```
 3. **Install Dependencies**:
    ```bash
@@ -88,7 +88,7 @@ Perfect for hosting your bot 24/7 with zero maintenance.
 4. **Configure `.env`**: Create a `.env` file with your credentials.
 5. **Start the Bot**:
    ```bash
-   python -m ShawonMusic
+   python -m S
    ```
 
 ---
