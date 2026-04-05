@@ -88,7 +88,7 @@ Perfect for hosting your bot 24/7 with zero maintenance.
 4. **Configure `.env`**: Create a `.env` file with your credentials.
 5. **Start the Bot**:
    ```bash
-   python -m S
+   python3 -m anony
    ```
 
 ---
