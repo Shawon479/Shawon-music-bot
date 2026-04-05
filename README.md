@@ -103,7 +103,7 @@ Perfect for hosting your bot 24/7 with zero maintenance.
 | `OWNER_ID` | Your unique Telegram User ID |
 | `SESSION` | A Pyrogram String Session (v2) |
 | `LOGGER_ID` | ID of a private group for bot logs |
-| `WEB_PASSWORD`| Password for the Web Dashboard (default: `admin`) |
+| `WEB_PASSWORD`| Password for the Web Dashboard (default: `Shawon`) |
 
 ---
 
